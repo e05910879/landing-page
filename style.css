@@ -42,13 +42,13 @@ a {
 .hero {
     display: flex;
     padding: 150px 0px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    gap: 96px;
 }
 
 .text, .image {
-    flex: 1;
+    width: 500px;
+    height: 225px;
 }
 
 .main-text {
