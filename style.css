@@ -160,3 +160,11 @@ button {
     border: 2px solid #f9faf8;
     border-radius: 8px;    
 }
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 36px;
+    color: #e5e7eb;
+    background-color: #1f2937;
+}
