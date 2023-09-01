@@ -133,3 +133,30 @@ button {
     font-weight: 600;
     padding-right: 48px;
 }
+
+/* Section Four */
+.section-four {
+    margin: 100px 200px;
+    padding: 50px 100px;
+    display: flex;
+    background-color: #3882f6;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+}
+
+.action-maintext{
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.action-subtext {
+    color: #e5e7eb;
+}
+
+.sign-up {
+    padding: 8px 32px;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;    
+}
